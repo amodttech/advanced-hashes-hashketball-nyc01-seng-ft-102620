@@ -199,7 +199,7 @@ def player_stats(player)
 end
 
 
-def big_shoe_rebounds(game_hash)
+def big_shoe_rebounds
 
   binding.pry
 end
